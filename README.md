@@ -57,7 +57,7 @@
 
 <p align="center">
   <!-- AdoteJá -->
-  <a href="https://github.com/klebers022/adoteja">
+  <a href="https://github.com/klebers022/AdoteJa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=adoteja&theme=tokyonight&hide_border=true" />
   </a>
   <!-- FloodAlert -->
