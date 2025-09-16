@@ -64,10 +64,10 @@
 > Troque `REPO_NAME` pelos seus repositórios favoritos para aparecerem como cards.
 
 <p align="center">
-  <a href="https://github.com/klebers022/REPO_NAME">
+  <a href="https://github.com/klebers022/AdotaJa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/klebers022/REPO_NAME2">
+  <a href="https://github.com/klebers022/app-FloadAlert">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=REPO_NAME2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
