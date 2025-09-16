@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/kleberdasilva-/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=klebers022&style=for-the-badge&color=0A66C2">
+
 </p>
 
 <!-- INTRO -->
@@ -26,7 +26,7 @@
 
 ## 🚀 Stack que uso no dia a dia
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,spring,python,git,github,linux,docker,postgres,mysql,figma,tailwind&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,spring,python,git,github,linux,docker,mysql,figma,tailwind&perline=9" />
 </p>
 
 ---
@@ -53,24 +53,41 @@
 
 ---
 
+## 🧩 Projetos em destaque
+
+<p align="center">
+  <!-- AdoteJá -->
+  <a href="https://github.com/klebers022/adoteja">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=adoteja&theme=tokyonight&hide_border=true" />
+  </a>
+  <!-- FloodAlert -->
+  <a href="https://github.com/klebers022/FloodAlert">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=floodalert&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <!-- HelpCar (Porto Seguro) -->
+  <a href="https://github.com/klebers022/helpcarnext.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=helpcar&theme=tokyonight&hide_border=true" />
+  </a>
+  <!-- Hackathon CAPES -->
+  <a href="https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=Hackathon_CAPES&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+- 🐾 **AdoteJá**: app que facilita a adoção de pets.  
+- 🌧️ **FloodAlert**: alertas de enchentes com foco em prevenção.  
+- 🚗 **HelpCar** (Porto Seguro): diagnóstico ágil de automóveis.  
+- 🧪 **Hackathon_CAPES**: melhorias de UX no portal de pesquisa CAPES.
+
+
+---
+
 ## 🧠 O que estou estudando agora
 - Arquitetura de front-end com **React + TypeScript**
 - **APIs REST** com **Node.js/Express** e **Spring**
 - Estilização moderna com **Tailwind CSS** e boas práticas de **UX/UI**
-
----
-
-## 🧩 Projetos em destaque
-> Troque `REPO_NAME` pelos seus repositórios favoritos para aparecerem como cards.
-
-<p align="center">
-  <a href="https://github.com/klebers022/AdotaJa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/klebers022/app-FloadAlert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=REPO_NAME2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
