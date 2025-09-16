@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/kleberdasilva-/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
 </p>
 
 <!-- INTRO -->
@@ -53,34 +52,25 @@
 
 ---
 
-## 🧩 Projetos em destaque
+## 🧩 Projetos em destaque (descrição + tecnologias)
 
-<p align="center">
-  <!-- AdoteJá -->
-  <a href="https://github.com/klebers022/AdoteJa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=adoteja&theme=tokyonight&hide_border=true" />
-  </a>
-  <!-- FloodAlert -->
-  <a href="https://github.com/klebers022/FloodAlert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=floodalert&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <!-- HelpCar (Porto Seguro) -->
-  <a href="https://github.com/klebers022/helpcarnext.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=helpcar&theme=tokyonight&hide_border=true" />
-  </a>
-  <!-- Hackathon CAPES -->
-  <a href="https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebers022&repo=Hackathon_CAPES&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- 🐾 **AdoteJá** — app que facilita a adoção de pets, conectando ONGs/tutores a futuros adotantes.  
+  **Tecnologias:** `React` `TypeScript` `Node.js` `Express` `REST API` `Banco relacional`  
+  **Repositório:** https://github.com/klebers022/AdoteJa
 
-- 🐾 **AdoteJá**: app que facilita a adoção de pets.  
-- 🌧️ **FloodAlert**: alertas de enchentes com foco em prevenção.  
-- 🚗 **HelpCar** (Porto Seguro): diagnóstico ágil de automóveis.  
-- 🧪 **Hackathon_CAPES**: melhorias de UX no portal de pesquisa CAPES.
+- 🌧️ **FloodAlert** — monitoramento e alerta de enchentes com foco em prevenção e tomada de decisão.  
+  **Tecnologias:** `React` `Leaflet/Mapas` `APIs de clima` `Node.js` `Express` `Webhooks`  
+  **Repositório:** https://github.com/klebers022/FloodAlert
 
+- 🚗 **HelpCar (Porto Seguro)** — plataforma para agilizar o diagnóstico de automóveis e encaminhamento de serviços.  
+  **Tecnologias:** `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Prisma` `PostgreSQL`  
+  **Repositório:** https://github.com/klebers022/helpcarnext
+
+- 🧪 **Hackathon_CAPES** — solução criada em hackathon para melhorar a UX do portal de pesquisa científica CAPES.  
+  **Tecnologias:** `Next.js` `React` `Node.js` `Design System` `Acessibilidade`  
+  **Repositório:** https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES
+
+> Se algum stack estiver diferente do que você implementou, me diga que eu ajusto em segundos. 😉
 
 ---
 
