@@ -13,7 +13,7 @@
 <!-- INTRO -->
 <h3 align="center">Olá! Eu sou o Kleber 😃</h3>
 <p align="center">
-  Amante de tecnologia, cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP.
+  Amante de tecnologia, cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP.  
   <br/>Focado em <strong>Desenvolvimento Web</strong> e sempre aprendendo coisas novas.
 </p>
 
@@ -52,25 +52,31 @@
 
 ---
 
-## 🧩 Projetos em destaque (descrição + tecnologias)
+## 🧩 Projetos em destaque
 
-- 🐾 **AdoteJá** — app que facilita a adoção de pets, conectando ONGs/tutores a futuros adotantes.  
-  **Tecnologias:** `React` `TypeScript` `Node.js` `Express` `REST API` `Banco relacional`  
-  **Repositório:** https://github.com/klebers022/AdoteJa
+<p align="center">Aqui estão alguns dos projetos que desenvolvi, com as tecnologias utilizadas:</p>
 
-- 🌧️ **FloodAlert** — monitoramento e alerta de enchentes com foco em prevenção e tomada de decisão.  
-  **Tecnologias:** `React` `Leaflet/Mapas` `APIs de clima` `Node.js` `Express` `Webhooks`  
-  **Repositório:** https://github.com/klebers022/FloodAlert
+### 🐾 [AdoteJá](https://github.com/klebers022/AdoteJa)  
+Aplicativo que conecta ONGs/tutores a adotantes para facilitar a adoção de pets.  
+**Stack:** `React` · `TypeScript` · `Node.js` · `Express` · `REST API` · `MySQL`
 
-- 🚗 **HelpCar (Porto Seguro)** — plataforma para agilizar o diagnóstico de automóveis e encaminhamento de serviços.  
-  **Tecnologias:** `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Prisma` `PostgreSQL`  
-  **Repositório:** https://github.com/klebers022/helpcarnext
+---
 
-- 🧪 **Hackathon_CAPES** — solução criada em hackathon para melhorar a UX do portal de pesquisa científica CAPES.  
-  **Tecnologias:** `Next.js` `React` `Node.js` `Design System` `Acessibilidade`  
-  **Repositório:** https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES
+### 🌧️ [FloodAlert](https://github.com/klebers022/FloodAlert)  
+Plataforma de monitoramento e alerta de enchentes para prevenção e tomada de decisão.  
+**Stack:** `React` · `Leaflet` · `APIs de clima` · `Node.js` · `Express` · `Webhooks`
 
-> Se algum stack estiver diferente do que você implementou, me diga que eu ajusto em segundos. 😉
+---
+
+### 🚗 [HelpCar - Porto Seguro](https://github.com/klebers022/helpcarnext)  
+Solução para agilizar diagnóstico de automóveis e encaminhamento de serviços.  
+**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Prisma` · `PostgreSQL`
+
+---
+
+### 🧪 [Hackathon CAPES](https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES)  
+Projeto de hackathon para melhorar a experiência do portal CAPES.  
+**Stack:** `Next.js` · `React` · `Node.js` · `Design System` · `Acessibilidade`
 
 ---
 
