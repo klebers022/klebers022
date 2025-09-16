@@ -54,31 +54,34 @@
 
 ## 🧩 Projetos em destaque
 
-<p align="center">Aqui estão alguns dos projetos que desenvolvi, com as tecnologias utilizadas:</p>
+> Resumo rápido dos projetos com tecnologias utilizadas (sem imagens).
 
-### 🐾 [AdoteJá](https://github.com/klebers022/AdoteJa)  
-Aplicativo que conecta ONGs/tutores a adotantes para facilitar a adoção de pets.  
-**Stack:** `React` · `TypeScript` · `Node.js` · `Express` · `REST API` · `MySQL`
-
----
-
-### 🌧️ [FloodAlert](https://github.com/klebers022/FloodAlert)  
-Plataforma de monitoramento e alerta de enchentes para prevenção e tomada de decisão.  
-**Stack:** `React` · `Leaflet` · `APIs de clima` · `Node.js` · `Express` · `Webhooks`
+### 🚗 HelpCar — Porto Seguro
+**Stack:** `HTML` `CSS` `JavaScript`  
+**Descrição:** Identifica alertas no painel do carro, aponta possíveis causas e estima um orçamento.  
+**Repositório:** https://github.com/klebers022/helpcarnext
 
 ---
 
-### 🚗 [HelpCar - Porto Seguro](https://github.com/klebers022/helpcarnext)  
-Solução para agilizar diagnóstico de automóveis e encaminhamento de serviços.  
-**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Prisma` · `PostgreSQL`
+### 🌧️ FloodAlert
+**Stack:** `React` `API meteorológica` `.NET (backend)`  
+**Descrição:** App para alerta de enchentes, visualização de rotas seguras, cadastro de alertas e notificações.  
+**Repositório:** https://github.com/klebers022/FloodAlert
 
 ---
 
-### 🧪 [Hackathon CAPES](https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES)  
-Projeto de hackathon para melhorar a experiência do portal CAPES.  
-**Stack:** `Next.js` · `React` · `Node.js` · `Design System` · `Acessibilidade`
+### 🐾 AdoteJá
+**Stack:** `React` `Java (backend)` `OracleDB`  
+**Descrição:** Cadastro de pets e visualização de animais disponíveis para adoção.  
+**Repositório:** https://github.com/klebers022/AdoteJa
 
 ---
+
+### 🧪 Hackathon CAPES
+**Stack:** `Node.js` `React` `API externa` `IA` `Chatbot`  
+**Descrição:** Uso de IA e chatbot integrado para melhorar os resultados de pesquisa no portal CAPES.  
+**Repositório:** https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES
+
 
 ## 🧠 O que estou estudando agora
 - Arquitetura de front-end com **React + TypeScript**
