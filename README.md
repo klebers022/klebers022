@@ -13,7 +13,7 @@
 <!-- INTRO -->
 <h3 align="center">Olá! Eu sou o Kleber 😃</h3>
 <p align="center">
-  Amante de tecnologia, cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP.  
+  Amante de tecnologia, formado em <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP.  
   <br/>Focado em <strong>Desenvolvimento Web</strong> e sempre aprendendo coisas novas.
 </p>
 
@@ -88,6 +88,8 @@
 **Stack:** `React` `Typescript` `Power Automate`  
 **Descrição:** Envio e geração de emails com IA e o Power automate com historico de envios.   
 **Repositório:** https://github.com/klebers022/smartemail
+
+---
 
 ### ✉️ Motix
 **Stack:** `Expo` `React`  
