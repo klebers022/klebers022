@@ -82,6 +82,17 @@
 **Descrição:** Uso de IA e chatbot integrado para melhorar os resultados de pesquisa no portal CAPES.  
 **Repositório:** https://github.com/Giovani-SantAna-Pedroso/Hackathon_CAPES
 
+---
+
+### ✉️ SmartEmail
+**Stack:** `React` `Typescript` `Power Automate`  
+**Descrição:** Envio e geração de emails com IA e o Power automate com historico de envios.   
+**Repositório:** https://github.com/klebers022/smartemail
+
+### ✉️ Motix
+**Stack:** `Expo` `React`  
+**Descrição:** App de gerenciamneto de patios   
+**Repositório:** https://github.com/klebers022/motix-app
 
 ## 🧠 O que estou estudando agora
 - Arquitetura de front-end com **React + TypeScript**
